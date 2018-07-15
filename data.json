@@ -1,0 +1,82 @@
+[
+  {
+    "links": {
+      "self": "/photos/1"
+    },
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "uri": "http://placehold.it/150/92c952"
+  },
+  {
+    "links": {
+      "self": "/photos/2"
+    },
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "uri": "http://placehold.it/150/771796"
+  },
+  {
+    "links": {
+      "self": "/photos/3"
+    },
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "uri": "http://placehold.it/150/24f355"
+  },
+  {
+    "links": {
+      "self": "/photos/4"
+    },
+    "id": 4,
+    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "uri": "http://placehold.it/150/d32776"
+  },
+  {
+    "links": {
+      "self": "/photos/5"
+    },
+    "id": 5,
+    "title": "natus nisi omnis corporis facere molestiae rerum in",
+    "uri": "http://placehold.it/150/f66b97"
+  },
+  {
+    "links": {
+      "self": "/photos/6"
+    },
+    "id": 6,
+    "title": "accusamus ea aliquid et amet sequi nemo",
+    "uri": "http://placehold.it/150/56a8c2"
+  },
+  {
+    "links": {
+      "self": "/photos/7"
+    },
+    "id": 7,
+    "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+    "uri": "http://placehold.it/150/b0f7cc"
+  },
+  {
+    "links": {
+      "self": "/photos/8"
+    },
+    "id": 8,
+    "title": "aut porro officiis laborum odit ea laudantium corporis",
+    "uri": "http://placehold.it/150/54176f"
+  },
+  {
+    "links": {
+      "self": "/photos/9"
+    },
+    "id": 9,
+    "title": "qui eius qui autem sed",
+    "uri": "http://placehold.it/150/51aa97"
+  },
+  {
+    "links": {
+      "self": "/photos/10"
+    },
+    "id": 10,
+    "title": "beatae et provident et ut vel",
+    "uri": "http://placehold.it/150/810b14"
+  }
+]

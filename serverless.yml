@@ -1,4 +1,6 @@
+app: photos
 service: photos
+tenant: hyanmandian
 
 provider:
   name: aws
